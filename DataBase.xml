@@ -1,0 +1,9 @@
+<object-stream>
+  <stats.database.VoogaDataBase>
+    <myGames/>
+    <myUsers/>
+    <totalrows>0</totalrows>
+    <totalcols>0</totalcols>
+    <myStatInfo/>
+  </stats.database.VoogaDataBase>
+</object-stream>
