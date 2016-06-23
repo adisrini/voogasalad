@@ -10,3 +10,9 @@ The program is a comprehensive and extensive tool for game development of many g
 During the project, I worked extensively on front-end development and integration of the authoring environment with the engine. Notable features I developed include a graphical topology visualization for the web of level networks, advanced game lookup using machine learning and search algorithms, and interpolation of user-defined paths to simulate smooth translational animation.
 
 ###Screenshots
+![Welcome Screen](/screenshots/SS1.png "Welcome Screen")
+![Welcome Screen](/screenshots/SS2.png "Preferences Creation")
+![Welcome Screen](/screenshots/SS3.png "Browsing Games")
+![Welcome Screen](/screenshots/SS4.png "UI Overview")
+![Welcome Screen](/screenshots/SS5.png "Flappy Bird Editing")
+![Welcome Screen](/screenshots/SS6.png "Level Cartography")
